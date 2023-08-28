@@ -1,6 +1,6 @@
-### Hi there 👋
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64eca06bb128dce3cb84978a?variant=dark&roadmaps=full-stack%2Csystem-design%2Csoftware-design-architecture%2Cdevops)](https://roadmap.sh)
 <!--
+### Hi there 👋
 **maranix/maranix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
